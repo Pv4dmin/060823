@@ -4,7 +4,7 @@ void ThreeDigit(int num)
 {
     if (num > 99 && num < 1000)
     {
-        Console.WriteLine($"Второй цифра этого числа это {num / 10 % 10}");
+        Console.WriteLine($"Вторая цифра этого числа это {num / 10 % 10}");
     }
     else
         Console.WriteLine("Сказано же трёхзначное, а ты что ввёл? Эх грамотей.)");
