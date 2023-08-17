@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\gb\\060823\\hw\\Hwork1\\Hwork1.csproj": {}
+    "F:\\gb\\060823\\hw\\Hwork2\\Hwork2.csproj": {}
   },
   "projects": {
-    "F:\\gb\\060823\\hw\\Hwork1\\Hwork1.csproj": {
+    "F:\\gb\\060823\\hw\\Hwork2\\Hwork2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\gb\\060823\\hw\\Hwork1\\Hwork1.csproj",
-        "projectName": "Hwork1",
-        "projectPath": "F:\\gb\\060823\\hw\\Hwork1\\Hwork1.csproj",
+        "projectUniqueName": "F:\\gb\\060823\\hw\\Hwork2\\Hwork2.csproj",
+        "projectName": "Hwork2",
+        "projectPath": "F:\\gb\\060823\\hw\\Hwork2\\Hwork2.csproj",
         "packagesPath": "C:\\Users\\rem\\.nuget\\packages\\",
-        "outputPath": "F:\\gb\\060823\\hw\\Hwork1\\obj\\",
+        "outputPath": "F:\\gb\\060823\\hw\\Hwork2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rem\\AppData\\Roaming\\NuGet\\NuGet.Config"
